@@ -141,7 +141,9 @@ php test_method_calls.php
 ```
 
 Result:
-![1](./img/result-1.png)
+![result-1](./img/result-1.png)
+![result-2](./img/result-2.png)
+![result-3](./img/result-3.png)
 
 
 ### Additional performance improvements
