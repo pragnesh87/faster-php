@@ -131,6 +131,19 @@ Result:
 
 The alternative approach is **2.2x** (54.83%) faster in this measurement. On average, it was ~2x (51%) faster. Tested on an array of random strings with 5000000 elements.
 
+### 5. Object/Method calls
+
+
+Test:
+
+```bash
+php test_method_calls.php
+```
+
+Result:
+![1](./img/result-1.png)
+
+
 ### Additional performance improvements
 
 Here are some additional points I integrated into my coding convention that I found to improve perfomance slightly (if applicable):
