@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "bvanhoekelen/performance",
-            "version": "v2.5.0",
+            "version": "v2.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/bvanhoekelen/performance.git",
-                "reference": "597003c45bda39af79e8fc767eaabb6aa3784408"
+                "reference": "48fee558069d638fe5430f70b1c9befbf78f162b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bvanhoekelen/performance/zipball/597003c45bda39af79e8fc767eaabb6aa3784408",
-                "reference": "597003c45bda39af79e8fc767eaabb6aa3784408",
+                "url": "https://api.github.com/repos/bvanhoekelen/performance/zipball/48fee558069d638fe5430f70b1c9befbf78f162b",
+                "reference": "48fee558069d638fe5430f70b1c9befbf78f162b",
                 "shasum": ""
             },
             "require": {
@@ -69,20 +69,24 @@
                 "time",
                 "web"
             ],
-            "time": "2019-03-31T14:41:23+00:00"
+            "support": {
+                "issues": "https://github.com/bvanhoekelen/performance/issues",
+                "source": "https://github.com/bvanhoekelen/performance/tree/v2.5.1"
+            },
+            "time": "2020-07-21T19:35:54+00:00"
         },
         {
             "name": "bvanhoekelen/terminal-style",
-            "version": "v1.0.4",
+            "version": "v1.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/bvanhoekelen/terminal-style.git",
-                "reference": "e851be5b3c46f884be1096f9e01d3d5e90742194"
+                "reference": "4afb08b4a005b1159f45deaf3b96531f852654cc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bvanhoekelen/terminal-style/zipball/e851be5b3c46f884be1096f9e01d3d5e90742194",
-                "reference": "e851be5b3c46f884be1096f9e01d3d5e90742194",
+                "url": "https://api.github.com/repos/bvanhoekelen/terminal-style/zipball/4afb08b4a005b1159f45deaf3b96531f852654cc",
+                "reference": "4afb08b4a005b1159f45deaf3b96531f852654cc",
                 "shasum": ""
             },
             "require": {
@@ -124,7 +128,11 @@
                 "terminal",
                 "terminal colors"
             ],
-            "time": "2018-02-19T20:46:00+00:00"
+            "support": {
+                "issues": "https://github.com/bvanhoekelen/terminal-style/issues",
+                "source": "https://github.com/bvanhoekelen/terminal-style/tree/develop"
+            },
+            "time": "2020-01-31T17:57:04+00:00"
         }
     ],
     "packages-dev": [],
@@ -134,5 +142,6 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
-    "platform-dev": []
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
 }
